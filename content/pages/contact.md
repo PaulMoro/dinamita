@@ -37,7 +37,6 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-    form_action: 'http://ec2-3-17-56-48.us-east-2.compute.amazonaws.com:5601/api/form'
 seo:
   title: Contact
   description: This is the contact page
